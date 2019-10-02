@@ -1,0 +1,2 @@
+# midterm
+naa ni jquery
